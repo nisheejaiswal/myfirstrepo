@@ -1,2 +1,2 @@
-## My First Github Repo
-# Appending data to remote repo
+# My First Github Repo
+## Appending data to remote repo
